@@ -138,7 +138,7 @@ Of course you can mix and match almost any plugin together (e.g. ARP spoof + inj
 
 For a complete list of available options, just run ```python mitmf.py --help```
 
-#Currently available plugins
+# Currently available plugins
 
 - **HTA Drive-By**     : Injects a fake update notification and prompts clients to download an HTA application
 - **SMBTrap**          : Exploits the 'SMB Trap' vulnerability on connected clients
@@ -158,3 +158,12 @@ For a complete list of available options, just run ```python mitmf.py --help```
 - **SMBAuth**          : Evoke SMB challenge-response authentication attempts
 - **Upsidedownternet** : Flips images 180 degrees
 - **Captive**          : Creates a captive portal, redirecting HTTP requests using 302
+
+# How to fund my tea & sushi reserve
+
+BTC: 1ER8rRE6NTZ7RHN88zc6JY87LvtyuRUJGU
+
+ETH: 0x91d9aDCf8B91f55BCBF0841616A01BeE551E90ee
+
+LTC: LLMa2bsvXbgBGnnBwiXYazsj7Uz6zRe4fr
+
